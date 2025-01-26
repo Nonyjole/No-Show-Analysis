@@ -1,0 +1,1 @@
+Find the percentage of patients by gender with scholarship(free medical card) that Show up for their medical appointments. This will help us know if scholarships awards leads to increase or decrease in showing up for medical appointmements among the gender specification and to find out which gender the organisation will focus its scholarship awards on.
